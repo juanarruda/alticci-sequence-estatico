@@ -1,6 +1,25 @@
-# AlticciSequenceEstatico
+# Alticci-Sequence-Estatico
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.3.8.
+
+#Informações gerais
+
+Este projeto foi criado utilizando Angular versão 13.3.8 no Windows,
+para poder utilizar o projeto, é necessário instalar o nodeJS, depois rodar o seguinte comando para instalar o Angular
+```shell script
+npm install --global @angular/cli@13.3.8
+```
+Após isso, no diretório do projeto, utilize o seguinte comando para instalar as dependências:
+```shell script
+npm install
+```
+e agora para rodar o projeto, basta executar o comando:
+
+```shell script
+ng serve
+```
+ele sera executado no caminho padrão  http://localhost:4200/.
+
 
 ## Development server
 
